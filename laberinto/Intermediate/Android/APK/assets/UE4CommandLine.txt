@@ -1,1 +1,0 @@
-../../../laberinto/laberinto.uproject  /Game/level/level0 -Messaging -SessionId=023537D84E553E290E17CE810BC453AC -SessionOwner="Kusabi" -SessionName="Launch On Device" -iterative

@@ -46,7 +46,7 @@ SourceArt/**/*.png
 SourceArt/**/*.tga
 
 # Binary Files
-Binaries/*
+laberinto/Binaries/*
 Plugins/*/Binaries/*
 
 # Builds
@@ -54,7 +54,7 @@ Build/*
 
 # Whitelist PakBlacklist-<BuildConfiguration>.txt files
 !Build/*/
-Build/*/**
+laberinto/Build/*/**
 !Build/*/PakBlacklist*.txt
 
 # Don't ignore icon files in Build
